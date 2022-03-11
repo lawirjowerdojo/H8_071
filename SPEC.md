@@ -13,7 +13,7 @@
 *Adjustable
 
 #### Storage
-An data disk has been attached at `/mnt/data` and symlinked to `/home/law/bootcamp`. This JupyterLab instance is set to have a home directory at `/home/law/bootcamp`. Daily snapshots/increment made for both OS and data disks, with a retention period of 3 days.
+A data disk has been attached at `/mnt/data` and symlinked to `/home/law/bootcamp`. This JupyterLab instance is set to have a home directory at `/home/law/bootcamp`. Daily snapshots/increment made for both OS and data disks, with a retention period of 3 days.
 
 
 
